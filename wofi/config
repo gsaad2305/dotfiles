@@ -1,0 +1,10 @@
+show=drun
+allow_images=true
+width=800
+height=500
+hide_scroll=true
+prompt=Buscar...
+term=kitty
+insensitive=true
+columns=8
+lines=4
