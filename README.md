@@ -17,4 +17,4 @@
 <img src="screenshots/scr2.png">
 <img src="screenshots/scr3.png">
 
-## made with by gsaad
+&copy;made in by gsaad2305
