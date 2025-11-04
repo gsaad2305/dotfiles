@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-    <h3>gsaad2305 hypr Files 📁</h3>
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=435&lines=A+place++my+Minimalist+Aesthetic+Customizations+Archlinux" />
 </div>
 
